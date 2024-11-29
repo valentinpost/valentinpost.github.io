@@ -1,0 +1,15 @@
+.Nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.Nav .Link {
+  text-decoration: none;
+}
+
+.RecipeCard {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}/*# sourceMappingURL=Nav.css.map */
