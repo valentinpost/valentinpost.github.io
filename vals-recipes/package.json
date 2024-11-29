@@ -48,7 +48,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://valentinpost.github.io/vals-recipes",
+  "homepage": "https://valentinpost.github.io/vals-recipes/",
   "predeploy": "yarn run build",
   "deploy": "gh-pages -d build"
 }
