@@ -50,5 +50,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://valentinpost.github.io/vals-recipes"
+  "homepage": "https://valentinpost.github.io/vals-recipes",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
