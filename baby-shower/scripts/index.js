@@ -12,10 +12,10 @@ var spyMasterMode = false;
 var sessionData = [];
 var customData = [];
 
-var COLOR_RED = "#ff0000";
-var COLOR_YELLOW = "#ffff00";
-var COLOR_BLUE = "#00eeee";
-var COLOR_BLACK = "#808080";
+var COLOR_RED = "#ff77d6d9";
+var COLOR_YELLOW = "#fdfd6dff";
+var COLOR_BLUE = "#4199ffff";
+var COLOR_BLACK = "#4d4c4cff";
 var COLOR_GREEN = "#009000";
 
 //init
