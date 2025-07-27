@@ -119,25 +119,25 @@ button, input, span#first {
 }
 
 .redStarts{
-	border: #ff0000;
+	border: #ff00009a;
 	border-style: solid;
 	border-radius: 8px;
 }
 .blueStarts{
-	border: #00eeee;
+	border: #3b00ee;
 	border-style: solid;
 	border-radius: 8px;
 }
 
 #redScore{
-	color: #ff0000;
+	color: #ff00009a;
 	font-size: 23px;
 	flex-grow: 1;
 	text-align: center;
 }
 #blueScore{
 	text-align: center;
-	color: #00eeee;
+	color: #3b00ee;
 	font-size: 23px;
 	flex-grow: 1;
 }
